@@ -1,22 +1,21 @@
 {
+  "author": "VHFJ",
+  "name": "Convert References to Portals",
+  "description": "Converts multiple selected references into portals with a single command.",
+  "repoUrl": "https://github.com/vhugofreires-creator/convert-references-to-portals",
+  "enableOnMobile": false,
+  "id": "convert-references-to-portals-j3j3lqe",
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
-  "author": "remnote",
-  "repoUrl": "",
   "version": {
     "major": 0,
     "minor": 0,
     "patch": 1
   },
-  "theme": [],
-  "enableOnMobile": false,
-  "description": "",
   "requestNative": false,
   "requiredScopes": [
     {
       "type": "All",
-      "level": "Read"
+      "level": "ReadCreateModifyDelete"
     }
   ]
 }
